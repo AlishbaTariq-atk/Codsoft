@@ -1,5 +1,5 @@
 # Codsoft
-This repository contains the projects and tasks completed during my internship.
+This repository contains the projects and tasks completed during my internship at Codsoft.
 
 ## Table of Contents
 - Task 1: Number Guess Game 
